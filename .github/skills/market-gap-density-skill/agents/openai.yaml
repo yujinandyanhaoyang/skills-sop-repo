@@ -1,0 +1,8 @@
+interface:
+  display_name: "Market Gap Density"
+  short_description: "Find market white space by looking for reward signals, not competition difficulty."
+  default_prompt: "Use $market-gap-density to assess this market idea and identify practical white-space opportunities."
+
+policy:
+  allow_implicit_invocation: true
+
